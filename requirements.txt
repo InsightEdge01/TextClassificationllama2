@@ -1,0 +1,9 @@
+langchain 
+streamlit
+torch
+accelerate
+sentence_transformers
+python-dotenv
+huggingface_hub
+ctransformers
+replicate
